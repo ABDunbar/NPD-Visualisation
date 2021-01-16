@@ -1,4 +1,7 @@
 import pandas as pd
+"""
+
+"""
 
 links = {
     'comp_reserves': 'https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/company_reserves&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=CSV&Top100=false&IpAddress=not_used&CultureCode=en',
