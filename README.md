@@ -1,15 +1,15 @@
 # Norwegian Petroleum Directorate (NPD)
 The [NPD](https://npd.no/en) provides publically accessible data for export.  The data is organised into tabs;
-* Wellbore
-* Licence
-* BAA
-* Field
-* Discovery
-* Company
+* Wellbore (Exploration, Development)
+* Licence (Overview, Licensees, Operators, Area, Phases, Transfers, Work, Register)
+* BAA (Overview, Licensees, Area, Transfers, Operators)
+* Field (Overview, Status, Operators, Owners, Licensees, Production, Reserves, Volumes, Investments, Description)
+* Discovery (Overview, Resources, Description)
+* Company (All, Reserves)
 * Survey
 * Facility
 * TUF
-* Stratigraphy
+* Stratigraphy (Overview, Wellbores, Cores)
 
 This repository provides a visual summary of the table data.
 
