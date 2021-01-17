@@ -30,6 +30,7 @@ links = {
 }
 
 # load csv file into DataFrame and convert date columns to datetime objects
+# TODO: Add functionality that checks whether the link is valid and if the return is empty
 
 def load(key):
     """
