@@ -1,15 +1,6 @@
 # Norwegian Petroleum Directorate (NPD)
 The NPD (npd.no/en) provides publically accessible data for export.  The data is organised into tabs;
-* Wellbore
-- Licence
-+ BAA
-* Field
-* Discovery
-* Company
-* Facility
-* Survey
-* TUF
-* Stratigraphy
+* Wellbore, * Licence, * BAA, * Field, * Discovery, * Company, * Survey, * Facility, * TUF, * Stratigraphy
 
 This repository provides a visual summary of the table data.
 
