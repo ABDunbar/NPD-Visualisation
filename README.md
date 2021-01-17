@@ -1,5 +1,17 @@
-# NPD Visualisations
-A visual summary of the table data (csv) that is available for download at npd.no
+# Norwegian Petroleum Directorate (NPD)
+The NPD (npd.no/en) provides publically accessible data for export.  The data is organised into tabs;
+* Wellbore
+- Licence
++ BAA
+* Field
+* Discovery
+* Company
+* Facility
+* Survey
+* TUF
+* Stratigraphy
+
+This repository provides a visual summary of the table data.
 
 # Exploration Summary
 Drilling results from current year, previous year, last 10 years and all years
