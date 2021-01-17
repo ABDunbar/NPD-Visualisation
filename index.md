@@ -19,19 +19,19 @@ The following visuals provide an overview of the drilling results and activities
 ### Previous Year Drilling Results
 Chart show all the Operating Companies that drilled wells on the NCS in the previous year.  Chart does not show Licensees or Licence drilled.
 
-![Drilling_previous](https://github.com/ABDunbar/NPD-Visualisation/figures/drilling_previous.png "Previous drilling results: Last year")
+![Drilling_previous](https://github.com/ABDunbar/NPD-Visualisation/tree/main/figures/drilling_previous.png "Previous drilling results: Last year")
 
 ### Previous 10 Years
 Chart shows all the Operating Companies that drilled wells on the NCS in the previous 10 years.  Note that companies (eg Statoil -> Equinor) have changed name.
-![](https://github.com/ABDunbar/NPD-Visualisation/figures/drilling_10.png "Previous drilling results: 10 years")
+![](https://github.com/ABDunbar/NPD-Visualisation/tree/main/figures/drilling_10.png "Previous drilling results: 10 years")
 
 ### Exploration Drilling by Numbers by years
 Chart shows the number of wells drilled on the NCS by year
-![](https://github.com/ABDunbar/NPD-Visualisation/figures/expl_yearly_drill.png)
+![](https://github.com/ABDunbar/NPD-Visualisation/tree/main/figures/expl_yearly_drill.png)
 
 ### Hydrocarbon Results
 Chart shows the hydrocarbon results in fluid-type for each discovery well
-![](https://github.com/ABDunbar/NPD-Visualisation/figures/discovery_results_type.png)
+![](https://github.com/ABDunbar/NPD-Visualisation/tree/main/figures/discovery_results_type.png)
 
 ---
 
